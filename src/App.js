@@ -9,7 +9,7 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="https://www.htmlhints.com/article/how-to-create-toggle-switch/93">
+        <a href="https://github.com/Aditya1git">
           Download Source Code
         </a>{" "}
         | Developed by{" "}
@@ -17,7 +17,7 @@ function App() {
           Aditya Rai
         </a>{" "}
         | Powered by{" "}
-        <a target="_blank" href="https://www.htmlhints.com/">
+        <a target="_blank" href="https://github.com/Aditya1git">
           Innovation
         </a>
       </div>
