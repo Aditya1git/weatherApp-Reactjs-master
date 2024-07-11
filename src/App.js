@@ -9,16 +9,15 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="https://github.com/Aditya1git">
-          Download Source Code
+        <a>
+          Cloud Point
         </a>{" "}
-        | Developed by{" "}
+        | WeatherApp{" "}
         <a target="_blank" href="">
-          Aditya Rai
         </a>{" "}
         | Powered by{" "}
         <a target="_blank" href="https://github.com/Aditya1git">
-          Innovation
+          Adityainnovation
         </a>
       </div>
     </React.Fragment>
