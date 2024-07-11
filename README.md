@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://via.placeholder.com/600x400.png?text=New+Project+Image" width="100%">
+<img src="https://www.freecodecamp.org/news/content/images/2021/03/Pink-Cute-Chic-Vintage-90s-Virtual-Trivia-Quiz-Presentations--39-.png" width="100%">
 </p>
 
 <p align="center">
